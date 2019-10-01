@@ -3,12 +3,12 @@ Componente Vue.js simples. É necessário o input-numerico.css
 
 Exemplo de uso
 ```
-<html >
+<html>
     <head>
-        <title>Lista</title>
-		<meta charset="utf-8">
-        <script type="text/javascript" src="vue.js"></script>
-        <script type="text/javascript" src="input-number.js"></script>
+        <title>Level</title>
+	<meta charset="utf-8">
+        <script type="text/javascript" src="../js/vue.js"></script>
+        <script type="text/javascript" src="../js/input-number.js"></script>
         <link rel="stylesheet" href="../css/inputNumerico.css">
     </head> 
     <body>
