@@ -13,7 +13,7 @@ Exemplo de uso
     </head> 
     <body>
         <div id="app">
-            <input-number titulo="Level:" v-on:valor="setaLevel" v-model="level" minimo="50" maximo="60" v-bind:desabilitar="false"></input-number>
+            <input-numerico titulo="Level:" v-on:valor="setaLevel" v-model="level" minimo="50" maximo="60" v-bind:desabilitar="false"></input-numerico>
         </div>
     </body>
     <script>
