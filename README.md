@@ -1,5 +1,5 @@
 # input-numerico
-Componente Vue.js simples
+Componente Vue.js simples. É necessário o input-numerico.css
 
 Exemplo de uso
 ```
